@@ -10,6 +10,6 @@
 - Güvenli ve harici bir depolama sitesi/yöntemi kullanıyoruz ve bir şey olursa, saklanan tüm veriler bot tarafından otomatik olarak silinecek.
 
 > Sunucunuzu, hesap verilerinizi nasıl silebilirsiniz?:
--Kullanıcılar, @CanBe#0001 ile iletişime geçerek veya botu Atarak verilerini silebilir.
+-Kullanıcılar, @CanBey#0001 ile iletişime geçerek veya botu Atarak verilerini silebilir.
 
 **Botu sunucunuzdan attıysanız, veriler bot aracılığıyla otomatik olarak kaldırılır.**
