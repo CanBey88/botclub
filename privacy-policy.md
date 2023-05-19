@@ -1,7 +1,7 @@
-**Kullanıcılara BotClub'u kullandıkları için teşekkür ederiz ve gizlilik politikasını okuduk ve saklanan tüm bilgilerin tamamen güvenli olduğunu ve bizimle iletişime geçerek bu verilerin silinmesini talep etme hakkına sahip olduğunuzu temin ederiz.**
+**Kullanıcılara CanBey'u kullandıkları için teşekkür ederiz ve gizlilik politikasını okuduk ve saklanan tüm bilgilerin tamamen güvenli olduğunu ve bizimle iletişime geçerek bu verilerin silinmesini talep etme hakkına sahip olduğunuzu temin ederiz.**
 
 > Kullanıcılardan talep ettiğimiz veri ve bilgiler:
-- BotClub, set paylaşım kanalı için Sunucu ve Kanal Kimliğini depolar ve sunucunuzu paylaşın.
+- CanBey, set paylaşım kanalı için Sunucu ve Kanal Kimliğini depolar ve sunucunuzu paylaşın.
 
 > Kullanıcıların sorumluluğu:
 - Discord hesabınızı, şifrenizi ekibimizden biri bile olsa kimseye vermeyin ve hiçbir şey için buna ihtiyacımız yok. Yalnızca kullanıcı kimliğine ihtiyacımız var.
